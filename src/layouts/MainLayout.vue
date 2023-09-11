@@ -26,7 +26,7 @@
       content-class="bg-grey-1"
     >
       <q-list>
-        <q-item-label header class="text-grey-8">Essential Links</q-item-label>
+        <q-item-label header class="text-grey-8">3D Model with mouse compatability</q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
           :key="link.title"
